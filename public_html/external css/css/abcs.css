@@ -8,13 +8,10 @@ and open the template in the editor.
     Author     : user
 */
 body{
-    background-color: cornflowerblue
+    background-color: green
 }
 h1{
     font-size: 36pt
-}
-h1{
-    text-align: center
 }
 p{
     margin-left: 50px 
